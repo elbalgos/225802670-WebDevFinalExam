@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .class {
     display: flex;
     flex-direction: column;
@@ -5,4 +6,15 @@
 
 p {
     gap: 10;
+=======
+.class {
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    background-color: black;
+    background-size: 20px;
+    gap: 10;
+>>>>>>> 7b0495f7d92468659374102f430e77205dd0e748
 }
